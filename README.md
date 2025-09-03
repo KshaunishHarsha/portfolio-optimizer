@@ -96,7 +96,8 @@ Backend will run on [http://localhost:3001](http://localhost:3001)
 
 ## 📌 Example Screenshot
 
-*(Add a screenshot of your dashboard UI here once it’s running)*
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/986d19e3-5f7e-4ff8-8194-b06ec61c1821" />
+
 
 ---
 
