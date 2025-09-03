@@ -6,7 +6,7 @@ from datetime import datetime
 import requests
 
 # Replace with your Alpha Vantage API key
-API_KEY = "RE6JH1LH4ZYD75ZB"
+API_KEY = "API_KEY_HERE"
 BASE_URL = "https://www.alphavantage.co/query"
 
 # Dummy portfolio with shares and weights
